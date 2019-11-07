@@ -1,5 +1,5 @@
-host: go.bytebuilder.dev
+host: go.bytebuilders.dev
 
 paths:
   /client:
-    repo: https://github.com/bytebuilder/client-go
+    repo: https://github.com/bytebuilders/client-go

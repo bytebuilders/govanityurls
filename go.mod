@@ -1,4 +1,4 @@
-module go.bytebuilder.dev/govanityurls
+module go.bytebuilders.dev/govanityurls
 
 go 1.12
 
