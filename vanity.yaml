@@ -9,3 +9,5 @@ paths:
     repo: https://github.com/bytebuilders/license-verifier
   /resource-model:
     repo: https://github.com/bytebuilders/resource-model
+  /ui-wizards:
+    repo: https://github.com/bytebuilders/ui-wizards
