@@ -3,6 +3,8 @@ host: go.bytebuilders.dev
 paths:
   /client:
     repo: https://github.com/bytebuilders/client-go
+  /famulus:
+    repo: https://github.com/bytebuilders/famulus
   /license-verifier:
     repo: https://github.com/bytebuilders/license-verifier
   /resource-model:
