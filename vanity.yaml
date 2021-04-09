@@ -7,6 +7,8 @@ paths:
     repo: https://github.com/bytebuilders/installer
   /license-verifier:
     repo: https://github.com/bytebuilders/license-verifier
+  /license-verifier-tester:
+    repo: https://github.com/bytebuilders/license-verifier-tester
   /resource-model:
     repo: https://github.com/bytebuilders/resource-model
   /ui-wizards:
