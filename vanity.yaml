@@ -1,6 +1,8 @@
 host: go.bytebuilders.dev
 
 paths:
+  /audit:
+    repo: https://github.com/bytebuilders/audit
   /client:
     repo: https://github.com/bytebuilders/client-go
   /installer:
